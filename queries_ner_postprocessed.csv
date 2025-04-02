@@ -1,0 +1,5 @@
+,query,habitaciones,baños,rooms_detected,area_detected,caracteristicas_detected,ubicacion_detected,precio_detected,caracteristicas,precio,area
+0,Piso en El Raval de Barcelona con calefacción por menos de 500000 euros ,,,[],[],[],[],[],[],,
+1,Piso en el Centro de Madrid cercano a estación de Metro. ,,,[],[],[],[],[],[],,
+2,Áticos en Valencia con dos dormitorios ,2.0,,['dos dormitorios'],[],[],[],[],[],,
+3,"Me interesa un ático entre 60 y 90 metros cuadrados, 3 habitaciones, con un presupuesto máximo de 300 mil dólares.",3.0,,['3 habitaciones'],['90 metros cuadrados'],[],[],[],[],,90.0

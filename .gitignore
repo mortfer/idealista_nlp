@@ -1,2 +1,6 @@
 data/
 models/
+idealista_nlp/
+*.bin
+es-100l.txt
+__pycache__
